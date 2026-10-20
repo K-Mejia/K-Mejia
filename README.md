@@ -9,7 +9,7 @@
 *Building reliable, secure, and scalable infrastructure through cloud technologies, automation, and continuous learning.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-K--Mejia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K-Mejia)
-[![AWS Certified]([https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/](https://www.credly.com/badges/a0ff8514-02b4-40a7-b405-a008995ac5cf/public_url))
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/a0ff8514-02b4-40a7-b405-a008995ac5cf/public_url)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cloud%20%7C%20DevOps-2ea44f?style=for-the-badge)
 
 </div>
